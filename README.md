@@ -1,4 +1,4 @@
-# Hệ Thống Quản Lý Sản Phẩm & Nhà Cung Cấp
+# Hệ Thống Quản Lý Sản Phẩm & Nhà Cung Cấp Duong Chi Viet
 
 Ứng dụng web quản lý sản phẩm và nhà cung cấp với đầy đủ tính năng CRUD, xác thực người dùng và bảo mật phiên làm việc.
 
